@@ -34,6 +34,9 @@ body {
 
 .ul-top {
     list-style-type: none;
+}
+
+.li-top {
     display: inline-block;
     margin-left: 25px;
 }
