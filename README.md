@@ -1,21 +1,34 @@
-# UT Boot Camp PreWork - My Launching Point to Success!
+# Module 1 - Challenge
 
 ## Description
 
-Although building this webpage was part of my homework, I learned that I am really enjoying coding. I have wanted to take on computer programming for a long time, and I am finding an awesome time troubleshooting and debugging my code, as well as learning to use Git Hub, Git Bash, VSCode, and other tools. My son is a software engineer, and he has been instrumental in helping me solve issues. (Thank you very much, Jasper!!!) 
+This repository contains my solution for the Module 1 Challenge.
+
+In order to have the webpage meet accessibility standards, I copied the source code to this repo, and then:
+* I added semantic HTML elements, which follow a logical structure - independent of styling and positioning
+* I added alt attributes to the icons and images
+* I ensured my heading attributes fall in sequential order
+* Lastly, I gave my title element a concise, descriptive title
 
 ## Installation
 N/A
 
 ## Usage
-Each section included in my webpage contains notes about a certain topic I learned how to use, like: HTML, CSS, JavaScript, and Git. All of these were progressively more challenging to learn, but I look forward to these being second nature, soon! 
- 
-If you open the DevTools console in Chrome, you will see JavaScript running, and I used console to ensure my code was running correctly.
+Each section on this page was laid out based on Semantic HTML styling and tags, as I deleted non-semantic HTML elements. I also ensured my css file contained all appropriate styling elements so my version of the webpage mirrored the UT Challenge source file, when rendered on a browser.
+
+I used Chrome console (inspect) to ensure my edits, adjustments, changes, and tweaks rendered correctly.
 
 ## Credits
 
-Credit to Jasper Garcia, my son.
-I also learned a ton from the UT Boot Camp Prework guide, and I searched Google, Bing, and used CoPilot AI to figure stuff out.
+Credit to Jasper Garcia, my son, who helped me troubleshoot when I was stuck - however, I wrote all my own HTLM and CSS. I was able to ask him questions to clarify, and he promted and challenged me to take breaks and allow my mind to process the solutions which were brewing.
+
+I copied the source code (the starting HTML and CSS) from the UT provided lessons, however, I wrote all my own changes, edits, tweaks, and versions of my webpage, html, and css.
+
+No outside sources of text, html, or css were copied into my work.
+
+I commented and committed to my repo heavily. Initially I copied my index.html and style.css to a non-root folder, which I had to copy to the root to get the webpage to render properly.
+
+I was able to deploy without issue, once I copied all htlm and css files properly.
 
 ## License
 
@@ -25,4 +38,4 @@ MIT License is listed in my repo. Please review if you intend to ever use anythi
 ## Badges
 
 Pull Shark
-@tuffythejeep opened pull requests that have been merged.
+@tuffythejeep opened pull requests that have been merged (from my PreWork project)
