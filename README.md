@@ -10,6 +10,9 @@ In order to have the webpage meet accessibility standards, I copied the source c
 * I ensured my heading attributes fall in sequential order
 * Lastly, I gave my title element a concise, descriptive title
 
+* ![image](https://github.com/tuffythejeep/Module-1-Challenge/assets/167649421/39291f61-dc78-406b-90eb-adea8ce41c2b)
+
+
 ## Installation
 N/A
 
