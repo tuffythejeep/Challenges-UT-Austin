@@ -24,6 +24,7 @@ h1 {
     color: #d9dcd6;
 }
 
+/*I created this ID so that my css was referenced properly in the HTML */
 #h2-header {
     padding-top: 15px;
     margin-right: 20px;
@@ -51,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*I thought to change this name, so I did */
 #Top-Of-Page-Image {
     height: 800px;
     width: 100%;
@@ -87,6 +89,7 @@ p {
     background-color: #2589bd;
 }
 
+/*I combined these three classes, since they were similar*/
 .benefit-cost,
 .benefit-brand,
 .benefit-lead {
@@ -94,6 +97,7 @@ p {
     color: #ffffff;
 }
 
+/*I combined these three classes, since they were similar*/
 .benefit-cost h3,
 .benefit-brand h3,
 .benefit-lead h3 {
@@ -101,6 +105,7 @@ p {
     text-align: center;
 }
 
+/*I combined these three classes, since they were similar*/
 .benefit-cost img,
 .benefit-brand img,
 .benefit-lead img {
@@ -109,6 +114,7 @@ p {
     max-width: 150px;
 }
 
+/*I combined these three classes, since they were similar*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -120,12 +126,14 @@ p {
     color: #ffffff;
 }
 
+/*I combined these three classes, since they were similar*/
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/*I combined these three classes, since they were similar*/
 .search-engine-optimization h2,
 .online-reputation-management h2, 
 .social-media-marketing h2 {
@@ -133,6 +141,7 @@ p {
     font-size: 36px;
 }
 
+/*I created this ID to get rid of the div*/
 #footer {
     padding: 30px;
     clear: both;
@@ -140,6 +149,7 @@ p {
     text-align: center;
 }
 
+/*I created this ID to get rid of the div*/
 #footer-h2 {
     font-size: 20px;
 }
